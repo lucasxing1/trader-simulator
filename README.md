@@ -1,8 +1,8 @@
-# 🏆 炒股大师模拟器 (Trader Simulator)
+# 🏆 炒股大师模拟器 (Trader Simulator) /skills
 
-> 化身多位股市大师，体验不同投资风格的模拟交易练习工具
+> 化身多位股市大师，体验不同投资风格的模拟交易练习工具 | 🤖 支持 OpenClaw
 
-![Version](https://img.shields.io/badge/version-1.4.0-blue)
+![Version](https://img.shields.io/badge/version-1.5.1-blue)
 ![Platform](https://img.shields.io/badge/platform-OpenClaw-green)
 
 ---
@@ -189,7 +189,7 @@ CC:   ⭐ 小Lin说：Hi~朋友们好！今天来聊聊特斯拉~
 
 ---
 
-> 🤖 本Skill为 **OpenClaw** 设计
+> 🤖 本Skill为 **OpenClaw** 设计 | 支持 OpenClaw 智能体框架
 
 ---
 
