@@ -184,8 +184,12 @@ CC:   ⭐ 小Lin说：Hi~朋友们好！今天来聊聊特斯拉~
 
 ## 🌐 相关资源
 
-- **GitHub**: https://github.com/lucasxing1/trader-simulator
+- **GitHub**: https://github.com/lucasxing1/trader-simulator/skill
 - **ClawHub**: https://clawhub.com/skills/trader-simulator
+
+---
+
+> 🤖 本Skill为 **OpenClaw** 设计
 
 ---
 
